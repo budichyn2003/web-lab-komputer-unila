@@ -81,7 +81,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            &copy; {new Date().getFullYear()} Laboratorium Komputer Universitas Lampung. 
+            &copy; {new Date().getFullYear()} Laboratorium Komputer & Budi Cahyono. 
             All rights reserved.
           </p>
         </div>
